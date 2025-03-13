@@ -4,8 +4,8 @@
 // @version      0.3
 // @description  Bezárja a popupot, és elrejti a container classú div-eket a klickaud.org oldalon, kivéve a download.php oldalon.
 // @author       Gaohei
-// @updateURL    https://github.com/GaoheiX/tampermonkey-scripts/blob/main/klickaud.org.js
-// @downloadURL  https://github.com/GaoheiX/tampermonkey-scripts/blob/main/klickaud.org.js
+// @updateURL    https://raw.githubusercontent.com/GaoheiX/tampermonkey-scripts/refs/heads/main/klickaud.org.js
+// @downloadURL  https://raw.githubusercontent.com/GaoheiX/tampermonkey-scripts/refs/heads/main/klickaud.org.js
 // @match        *://*.klickaud.org/*
 // @grant        none
 // ==/UserScript==
